@@ -1,0 +1,7 @@
+#v2_students,,,,,,,
+#Full Name,Person ID,Email,Managed Apple ID,Location, Grade Level,Serial Number
+#Required,Required - unique inside your school,Optional,Required if applicable,Required,Required,Optional
+#Start fill below here,,,,,,,
+Student Name 01,student_id_01,student1@email.com,,Sunny Vale,10th,XYASAS1151
+Student Name 02,student_id_02,student2@email.com,,Sunny Vale,10th
+Student Name 03,student_id_03,student3@email.com,,Sunny Vale,10th

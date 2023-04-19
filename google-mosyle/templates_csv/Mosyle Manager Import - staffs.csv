@@ -1,0 +1,6 @@
+#v1_staffs,,,
+#Full Name,Person ID,Email,Managed Apple ID,Location,Serial Number
+#Required,Required - unique inside your school,Required,Optional,Optional,Optional
+#Start fill below here,,,
+Staff Name 01,staff_id_01,staff1@email.com,staff1@appleid.email.com,Sunny Vale,XHFD7151NGFD
+Staff Name 02,staff_id_02,staff2@email.com,staff2@appleid.email.com,Sunny Vale

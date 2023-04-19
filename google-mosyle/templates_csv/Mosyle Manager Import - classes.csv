@@ -1,0 +1,6 @@
+#v2_classes,,,,,,
+#Course Name,Period Name,Room,Location,Leader ID,Student ID
+#Required,Required,Optional,Required,Required,Required
+#Each student and leader at the class must be separate by comma in the field,,,,,,
+#Start fill below here,,,,,,
+Biology,Botanical,201,Sunny Vale,"teacher_id_01,teacher_id_02","student_id_01,student_id_02,student_id_03"

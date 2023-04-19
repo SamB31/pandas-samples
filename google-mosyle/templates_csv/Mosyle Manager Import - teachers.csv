@@ -1,0 +1,6 @@
+#v2_teachers,,,
+#Full Name,Person ID,Email,Managed Apple ID,Location,Serial Number
+#Required,Required - unique inside your school,Required,Optional,Required,Optional
+#Start fill below here,,,
+Teacher Name 01,teacher_id_01,teacher1@email.com,teacher1@appleid.email.com,Sunny Vale,XHFD7151NGFD
+Teacher Name 02,teacher_id_02,teacher2@email.com,teacher2@appleid.email.com,Sunny Vale
